@@ -1,4 +1,4 @@
-# Fantasy / Sci-Fi Asset: Crystal Altar (Dungeon)
+# Crystal Altar (Dungeon)
 
 ![Project Preview](https://github.com/RgAnna/altar_3d_asset/blob/main/Render/Altar_PROPS_2.png)
 
@@ -58,7 +58,7 @@ The asset is optimized for real-time use while preserving visual fidelity and at
 
 ___
 
-# Fantasy / Sci-Fi Ассет: Алтарь с Кристаллом (Подземелье)
+# Fantasy / Алтарь с Кристаллом (Подземелье)
 
 ## Характеристики ассета
 
