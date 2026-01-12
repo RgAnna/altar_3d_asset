@@ -1,6 +1,6 @@
 # Fantasy / Sci-Fi Asset: Crystal Altar (Dungeon)
 
-![Project Preview](https://github.com/RgAnna/altar-asset/blob/main/Asset_Crystal_Altar.png)
+![Project Preview](https://github.com/RgAnna/altar_3d_asset/blob/main/Render/Altar_PROPS_2.png)
 
 ## Crystal Altar (Dungeon Environment Asset)
 - **Polygons:** 35,600 tris
